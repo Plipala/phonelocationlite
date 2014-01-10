@@ -1,0 +1,11 @@
+Package: com.plipala.phonelocationlite
+Name: PhoneLocationLite
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: 简单的来电归属地插件
+Maintainer: plipala <plipala@foxmail.com>
+Conflicts: com.plipala.phonelocationlite , com.myrepospace.plipala.phonelocationlite
+Replaces: com.plipala.phonelocationlite , com.myrepospace.plipala.phonelocationlite
+Author: plipala <plipala@foxmail.com>
+Section: Tweaks
